@@ -10,6 +10,6 @@ The original datasets can be viewed here: https://www.kaggle.com/datasets/clment
 
 2. A jupyter notebook with all code. 
 
-3. Both .json files are the saved models from my classification system. 
+3. Both .json files are the saved model and weights from my classification system. 
 
 4. Natural Language Processing Critical Essay is the final copy of my research report. 
