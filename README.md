@@ -31,9 +31,10 @@ If using the Jupyter Notebook:
 * Run each cell in the notebook. Should you want to make adjustments, be sure to save the file before continuing to run each cell. If there are issues, restart the kernel and re-run each cell.
 
 If using the python files:
-* Open a terminal and locate where the downloaded datasets are on your local machine.
+* Download the .py files
+* Open a terminal and locate where the downloaded datasets and files are on your local machine.
 * Create a new environment to run everything in.
-* Follow the python files by copying and pasting them into your terminal and running each.
+* Run this line in your terminal: python main.py -d <data_directory> --clean-data --topic-modeling --save-model
 
 ## Help
 
